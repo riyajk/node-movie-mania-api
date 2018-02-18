@@ -1,0 +1,6 @@
+{
+    "database": {
+      "name" : "movie-junction",
+      "server" : "localhost"
+    }
+  }
